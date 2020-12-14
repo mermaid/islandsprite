@@ -1,3 +1,36 @@
 baseURL = "https://islandsprite.com/"
 languageCode = "en-us"
 title = "Island Sprite"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Cameron Holiman"
+  description = "Island Sprite"
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  [params.footer]
+    text = "By Cameron Holiman"
+    url = "https://github.com/mermaid/hugo-researcher"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Apps"
+    url = "/apps"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
