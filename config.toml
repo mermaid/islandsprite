@@ -11,9 +11,9 @@ googleAnalytics = ""  # add your tracking id
   author = "Cameron Holiman"
   description = "Island Sprite"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
+  avatar = "avatar.jpg"
   [params.footer]
     text = "By Cameron Holiman"
-    url = "https://github.com/mermaid/hugo-researcher"
 
 [permalinks]
   "/" = "/:filename"
@@ -26,7 +26,7 @@ googleAnalytics = ""  # add your tracking id
   [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "Contact"
     url = "/contact"
