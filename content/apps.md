@@ -8,6 +8,7 @@ title = "Apps"
 ### Plantir
 Plantir is a plant organizer and management app.
 Easily keep track of all your plants and their tasks & schedules (watering, fertilizing, etc.) so that your plants can stay healthy and grow.
+See [Plantir's webpage for more info about it](https://plantir.app)
 
 <div class="screenshots">
 <img src="/plantir1.png" alt="Viewing your schedule">
