@@ -18,3 +18,5 @@ I also have a [Coffee Snob Sticker app for iMessage](/apps) if stickers are your
 [@mermaid](https://github.com/mermaid) on GitHub
 
 [@CameronHoliman](https://twitter.com/CameronHoliman) on Twitter
+
+<p><a rel="me" href="https://mastodon.social/@holiman">@holiman@mastodon.social</a> on Mastodon</p>
