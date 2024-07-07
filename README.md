@@ -1,6 +1,6 @@
 # islandsprite
 
-## build
+## build    
 run `hugo`
 
 ## deploy

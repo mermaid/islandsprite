@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Island Sprite</title>
-    <link>https://islandsprite.com/</link>
-    <description>Recent content in About on Island Sprite</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://islandsprite.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>Island Sprite</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Island Sprite</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://islandsprite.com/plantir-privacy-policy/</link>
+      <link>http://localhost:1313/plantir-privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://islandsprite.com/plantir-privacy-policy/</guid>
-      <description>Plantir Privacy Policy &amp;amp; Terms of use I take the privacy of my users very seriously, and do not collect any personal information that is not necessary for the app&amp;rsquo;s functionality.
-Plantir can access some information (photos) for use in the app.
-No data from the app is sent back to me or collected in any way. I don&amp;rsquo;t even know anything about your use of the app unless you email me for support and give me information.</description>
+      <guid>http://localhost:1313/plantir-privacy-policy/</guid>
+      <description>Plantir Privacy Policy &amp;amp; Terms of use I take the privacy of my users very seriously, and do not collect any personal information that is not necessary for the app&amp;rsquo;s functionality.&#xA;Plantir can access some information (photos) for use in the app.&#xA;No data from the app is sent back to me or collected in any way. I don&amp;rsquo;t even know anything about your use of the app unless you email me for support and give me information.</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>https://islandsprite.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://islandsprite.com/about/</guid>
-      <description>About Me  My name is Cameron Holiman and I love making things. I am a software developer and enjoy playing and collecting retro video games, making and drinking snobby coffee, watching Twitch, making props and hiking in my spare time.
-My primary project is Plantir. An app to help manage your plants and keep track of their watering schedule (or fertilize, repotting, etc. Any type schedule really).
-I also have a Coffee Snob Sticker app for iMessage if stickers are your thing.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Me My name is Cameron Holiman and I love making things. I am a software developer and enjoy playing and collecting retro video games, making and drinking snobby coffee, watching Twitch, making props and hiking in my spare time.&#xA;My primary project is Plantir. An app to help manage your plants and keep track of their watering schedule (or fertilize, repotting, etc. Any type schedule really).&#xA;I also have a Coffee Snob Sticker app for iMessage if stickers are your thing.</description>
     </item>
-    
     <item>
       <title>Apps</title>
-      <link>https://islandsprite.com/apps/</link>
+      <link>http://localhost:1313/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://islandsprite.com/apps/</guid>
-      <description>Apps Plantir Plantir is a plant organizer and management app. Easily keep track of all your plants and their tasks &amp;amp; schedules (watering, fertilizing, etc.) so that your plants can stay healthy and grow. See Plantir&amp;rsquo;s webpage for more info about it
- Coffee Snob Sticker for iMessage Do you like coffee? Becaues I sure do! That&amp;rsquo;s why I made these stickers.
-They were even featured on MacStories!</description>
+      <guid>http://localhost:1313/apps/</guid>
+      <description>Apps Plantir Plantir is a plant organizer and management app. Easily keep track of all your plants and their tasks &amp;amp; schedules (watering, fertilizing, etc.) so that your plants can stay healthy and grow. See Plantir&amp;rsquo;s webpage for more info about it&#xA;Coffee Snob Sticker for iMessage Do you like coffee? Becaues I sure do! That&amp;rsquo;s why I made these stickers.&#xA;They were even featured on MacStories!</description>
     </item>
-    
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description> Cameron Holiman @mermaid on GitHub islandsprite.com LinkedIn Education Cedar City, UT Southern Utah University 2010 - 2014 Todo: talk about qualtrics Employment Provo, UT Qualtrics 2014 - Present Major: Bachelor of Science in Computer Science. GPA 3.9 Utah Island Sprite, LLC 2020 - Present Creating applications for the iOS app store. All design, development, done by me. Plantir: Application for tacking &amp; scheduling tasks for your plant collection Coffee Snob Stickers: A fun little iMessage sticker app with coffee equipment </description>
+    </item>
   </channel>
 </rss>

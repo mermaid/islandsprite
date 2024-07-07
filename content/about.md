@@ -13,6 +13,8 @@ My primary project is [Plantir](/apps). An app to help manage your plants and ke
 
 I also have a [Coffee Snob Sticker app for iMessage](/apps) if stickers are your thing.
 
+[Here's a copy of my resume if you're looking for that.](/resume)
+
 &nbsp;
 
 [@mermaid](https://github.com/mermaid) on GitHub
