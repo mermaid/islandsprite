@@ -40,6 +40,11 @@ title = "Résumé"
     #content .resume h2 {
         margin: 0;
     }
+
+    #content .resume ul {
+      list-style-position: outside;
+      margin-left: 1rem;
+    }
 </style>
 
 <div class='resume'>
@@ -52,18 +57,6 @@ title = "Résumé"
                 <div><a href='https://www.linkedin.com/in/cameron-holiman-a186718b/'>LinkedIn</a></div>
             </span>
         </div>
-    </div>
-    <div class='section'>
-        <h4>Education</h4>
-        <hr />
-        <div class='centered-row header-row'>
-            <span>Cedar City, UT</span>
-            <span>Southern Utah University</span>
-            <span>2010 - 2014</span>
-        </div>
-        <ul>
-            <li><b>Major:</b> Bachelor of Science in Computer Science. GPA 3.9</li>
-        </ul>
     </div>
     <div class='section'>
         <h4>Employment</h4>
@@ -96,10 +89,29 @@ title = "Résumé"
         </ul>
         <div class='centered-row header-row'>
             <span>Senior Software Engineer / Team Lead</span>
-            <span>2022 - Present</span>
+            <span>2022 - 2025</span>
+        </div>
+        Developing Qualitative Research & Video Analysis Tools
+        <ul>
+          <li>Lead a small team to effectively and efficiently build out a large and comprehensive suite of Qualitative research products</li>
+          <li>Designed, architected, and built new products from the ground up to allow for Qualitative video analysis within Qualtrics</li>
+          <li>Continually expanding use cases from short in-survey videos, to many different types of long form videos (Focus Groups, In Depth Interviews, UX Testing)</li>
+          <li>Created in-survey video recording solution, allowing customers to collect video feedback from participants.</li>
+          <li>Created custom video playback controls to meet high bar for accessibility, performance, and flexibility.</li>
+          <li>Created custom online video editor, which allows users to clip and edit their videos, and assemble them into highlight reels.</li>
+          <li>Custom in house solutions for video ingestion, storage, playback, and editing has yielded incredibly high profitability on all Qualitative video products that has driven many millions in sales.</li>
+          <li>Developed migration tools and plans to help Qualtrics win customers out from competitors.</li>
+        Legacy Products
+          <li>Began regular 2LA of a legacy product our team was given upon our founding</li>
+          <li>Added necessary metrics and tracking on product usage</li>
+          <li>Over the course of 3 years of ownership, overall customer issues decreased more 50% while usage increased 3000% (Yes 30x usage). Leading to an overall customer issue rate that is down 90% from my taking ownership over it</li>
+        </ul>
+        <div class='centered-row header-row'>
+            <span>Staff Software Engineer / Team Lead</span>
+            <span>2025 - Present</span>
         </div>
         <ul>
-            <li>Did some stuff as Senior Software Engineer</li>
+            <li>Run regular Design Office Hours sessions to assist in product / feature development</li>
         </ul>
         <br />
         <div class='centered-row header-row'>
@@ -113,5 +125,17 @@ title = "Résumé"
             <li><a href="https://apps.apple.com/us/app/coffee-snob-stickers/id1154238768">Coffee Snob Stickers:</a> A fun little iMessage sticker app with coffee equipment</li>
         </ul>
     </div>
+    <div class='section'>
+    <h4>Education</h4>
+    <hr />
+    <div class='centered-row header-row'>
+        <span>Cedar City, UT</span>
+        <span>Southern Utah University</span>
+        <span>2010 - 2014</span>
+    </div>
+    <ul>
+        <li><b>Major:</b> Bachelor of Science in Computer Science. GPA 3.9</li>
+    </ul>
+</div>
 </div>
 
