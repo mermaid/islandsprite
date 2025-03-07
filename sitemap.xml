@@ -10,5 +10,7 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/apps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
   </url>
 </urlset>
