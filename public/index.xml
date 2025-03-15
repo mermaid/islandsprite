@@ -2,37 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Island Sprite</title>
-    <link>http://localhost:1313/</link>
+    <link>https://islandsprite.com/</link>
     <description>Recent content on Island Sprite</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://islandsprite.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/plantir-privacy-policy/</link>
+      <link>https://islandsprite.com/plantir-privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plantir-privacy-policy/</guid>
+      <guid>https://islandsprite.com/plantir-privacy-policy/</guid>
       <description>Plantir Privacy Policy &amp;amp; Terms of use I take the privacy of my users very seriously, and do not collect any personal information that is not necessary for the app&amp;rsquo;s functionality.&#xA;Plantir can access some information (photos) for use in the app.&#xA;No data from the app is sent back to me or collected in any way. I don&amp;rsquo;t even know anything about your use of the app unless you email me for support and give me information.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://islandsprite.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://islandsprite.com/about/</guid>
       <description>About Me My name is Cameron Holiman and I love making things. I am a software developer and enjoy playing and collecting retro video games, making and drinking snobby coffee, watching Twitch, making props and hiking in my spare time.&#xA;My primary project is Plantir. An app to help manage your plants and keep track of their watering schedule (or fertilize, repotting, etc. Any type schedule really).&#xA;I also have a Coffee Snob Sticker app for iMessage if stickers are your thing.</description>
     </item>
     <item>
       <title>Apps</title>
-      <link>http://localhost:1313/apps/</link>
+      <link>https://islandsprite.com/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/apps/</guid>
+      <guid>https://islandsprite.com/apps/</guid>
       <description>Apps Plantir Plantir is a plant organizer and management app. Easily keep track of all your plants and their tasks &amp;amp; schedules (watering, fertilizing, etc.) so that your plants can stay healthy and grow. See Plantir&amp;rsquo;s webpage for more info about it&#xA;Coffee Snob Sticker for iMessage Do you like coffee? Becaues I sure do! That&amp;rsquo;s why I made these stickers.&#xA;They were even featured on MacStories!</description>
     </item>
     <item>
       <title>Résumé</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://islandsprite.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://islandsprite.com/resume/</guid>
       <description>Cameron Holiman @mermaid on GitHub islandsprite.com LinkedIn Employment Provo, UT Qualtrics 2014 - Present Staff Software Engineer / Team Lead 2025 - Present Lead Design Office Hours sessions to accelerate product development across Engineering Research organization. Rearchitected database &amp; file storage for our qualitative video platform enabling customer-managed encryption, resulting in enhanced security compliance, and allowed for significant increase in the number of customers who can utilize the products. Senior Software Engineer / Team Lead 2022 - 2025 Qualitative Video Platform Lead a team of 4 engineers to build a comprehensive suite of qualitative video research products from the ground up.</description>
     </item>
   </channel>
