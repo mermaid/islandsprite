@@ -1,1 +1,5 @@
-about.md
++++
+title = "Island Sprite"
++++
+
+{{< about-content >}}
