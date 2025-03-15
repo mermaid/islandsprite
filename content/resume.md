@@ -140,7 +140,7 @@ title = "Résumé"
         </div>
         <ul>
             <li>Lead Design Office Hours sessions to accelerate product development across Engineering Research organization.</li>
-            <li>Rearchitected database & file storage for our qualitative video platform enabling customer-managed encryption, resulting in enhanced security compliance, and allowed for significant increase in the number of customers who can utilize the products.</li>
+            <li>Rearchitected database and file storage for our qualitative video platform enabling customer-managed encryption, resulting in enhanced security compliance and allowing for significant increase in the number of customers who can utilize the products.</li>
         </ul>
         <div class='centered-row header-row'>
             <span>Senior Software Engineer / Team Lead</span>
@@ -161,7 +161,7 @@ title = "Résumé"
         </ul>
         <span class="specific">Subject Matter Expert</span>
         <ul>
-          <li>Work as AWS subject matter expert across Qualtrics research organization, assisting teams and individuals with architecture, best practices, and training.</li>
+          <li>Act as subject matter expert across Qualtrics research organization for AWS, and internal load balancing tools, assisting teams and individuals with architecture, best practices, and training.</li>
         </ul>
         <div class='centered-row header-row'>
             <span>Software Engineer I & II</span>
