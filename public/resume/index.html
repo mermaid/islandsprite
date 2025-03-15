@@ -98,6 +98,16 @@
       list-style-position: outside;
       margin-left: 1rem;
     }
+
+    @media print
+    {    
+        body > * {
+            display: none;
+        }
+        body > #content {
+            display: block !important;
+        }
+    }
 </style>
 <div class='resume'>
     <div class='section'>
@@ -119,51 +129,68 @@
             <span>2014 - Present</span>
         </div>
         <div class='centered-row header-row'>
-            <span>QE Engineer</span>
-            <span>2014 - 2016</span>
+            <span>Staff Software Engineer / Team Lead</span>
+            <span>2025 - Present</span>
         </div>
         <ul>
-            <li>Did some stuff as QE Engineer</li>
-        </ul>
-        <div class='centered-row header-row'>
-            <span>Software Engineer</span>
-            <span>2016 - 2019</span>
-        </div>
-        <ul>
-            <li>Did some stuff as Software Engineer</li>
-        </ul>
-        <div class='centered-row header-row'>
-            <span>Software Engineer II</span>
-            <span>2019 - 2022</span>
-        </div>
-        <ul>
-            <li>Did some stuff as Software Engineer II</li>
+            <li>Run regular Design Office Hours sessions to assist in product / feature development across the engineering research organization.</li>
+            <li>Rearchitenct database & block storage for Qualitative video tools to allow for encryption at rest with customer provided keys.</li>
         </ul>
         <div class='centered-row header-row'>
             <span>Senior Software Engineer / Team Lead</span>
             <span>2022 - 2025</span>
         </div>
-        Developing Qualitative Research & Video Analysis Tools
+        <i>Qualitative Research & Video Analysis Tools</i>
         <ul>
-          <li>Lead a small team to effectively and efficiently build out a large and comprehensive suite of Qualitative research products</li>
+          <li>Lead a small team (4 engineers) to effectively and efficiently build out a large and comprehensive suite of Qualitative video research products</li>
           <li>Designed, architected, and built new products from the ground up to allow for Qualitative video analysis within Qualtrics</li>
           <li>Continually expanding use cases from short in-survey videos, to many different types of long form videos (Focus Groups, In Depth Interviews, UX Testing)</li>
-          <li>Created in-survey video recording solution, allowing customers to collect video feedback from participants.</li>
           <li>Created custom video playback controls to meet high bar for accessibility, performance, and flexibility.</li>
           <li>Created custom online video editor, which allows users to clip and edit their videos, and assemble them into highlight reels.</li>
-          <li>Custom in house solutions for video ingestion, storage, playback, and editing has yielded incredibly high profitability on all Qualitative video products that has driven many millions in sales.</li>
-          <li>Developed migration tools and plans to help Qualtrics win customers out from competitors.</li>
-        Legacy Products
-          <li>Began regular 2LA of a legacy product our team was given upon our founding</li>
-          <li>Added necessary metrics and tracking on product usage</li>
-          <li>Over the course of 3 years of ownership, overall customer issues decreased more 50% while usage increased 3000% (Yes 30x usage). Leading to an overall customer issue rate that is down 90% from my taking ownership over it</li>
+          <li>Continued focus on cost efficiency has lead to our custome in house solutions for video ingestion, storage, playback, and editing has yielded incredibly high profitability (>99% profit margin in some cases) on all Qualitative video products that has driven many millions of dollars in sales.</li>
+          <li>Developed migration tools and plans to help Qualtrics win customers from competitors.</li>
+        </ul>
+        <i>Legacy Product Transformation</i>
+        <ul>
+          <li>Began regular 2LA of a legacy product our team was given upon our founding.</li>
+          <li>Added necessary metrics and tracking on product usage.</li>
+          <li>Over the course of 3 years of ownership, targeted investments most quarters has lead to</li>
+          <ul>
+            <li>Overall customer reported issues decreased more 50%</li>
+            <li>Overal usage increased 3000% (Yes 30x usage)</li>
+            <li>Customer issue rate that is down 90% from my taking ownership over it.</li>
+          </ul>
+          <li>This has allowed our team to retain focus on our core products that provide the highest value to Qualtrics.</li>
+        </ul>
+        <i>Subject Matter Expert</i>
+        <ul>
+          <li>Work as a subject matter expert on AWS across the Qualtrics research organization. Assisting many teams with their AWS architecture, best practices, and general training to enable them to be successful.</li>
+          <li>Helped architect the new Qualitative video products.</li>
         </ul>
         <div class='centered-row header-row'>
-            <span>Staff Software Engineer / Team Lead</span>
-            <span>2025 - Present</span>
+            <span>Software Engineer I & II</span>
+            <span>2016 - 2022</span>
         </div>
+        <i>Qualtrics Survey Engine</i>
         <ul>
-            <li>Run regular Design Office Hours sessions to assist in product / feature development</li>
+            <li>Helped develop the new Qualtrics Survey Engine, to replace the legacy engine.</li>
+            <li>Created new hub-spoke architecture for the Survey Engine, allowed for any survey to be delivered from any spoke datacenter in the world.</li>
+            <li>New architecture allowed for:</li>
+            <ul>
+              <li>Significantly higher reliability. Regularly achived 100% uptime.</li>
+              <li>Significantly faster survey delivery. Worldwide datacenter distribution & DNS based load balancing ensured that users were taking surveys from the closest server.</li>
+              <li>Significantly larger scale. Our unique architecture allowed for the ability to support much larger scale (10M respondents per day), while having the ability to scale up or down depending on the load.</li>
+            </ul>
+            <li>Was the primary developer responsible for the final deprecation of the legacy Survey Engine.</li>
+        </ul>
+        <div class='centered-row header-row'>
+            <span>QE Engineer</span>
+            <span>2014 - 2016</span>
+        </div>
+        <i>Qualtrics Survey Engine</i>
+        <ul>
+            <li>Responsible for testing & validating the UI & Backend of the Legacy Qualtrics Survey Engine and it's migration to the new Survey Engine.</li>
+            <li>Developed framework to enable the easily creation of E2E tests for the Survey Engine to test features & survey combitibility between both engines.</li>
         </ul>
         <br />
         <div class='centered-row header-row'>
@@ -171,24 +198,45 @@
             <span>Island Sprite, LLC</span>
             <span>2020 - Present</span>
         </div>
-        Creating applications for the iOS app store. All design, development, done by me.
+        Creating applications for the iOS app store. Designed, developed, maintained by me.
         <ul>
             <li><a href="https://plantir.app">Plantir:</a> Application for tacking & scheduling tasks for your plant collection</li>
             <li><a href="https://apps.apple.com/us/app/coffee-snob-stickers/id1154238768">Coffee Snob Stickers:</a> A fun little iMessage sticker app with coffee equipment</li>
         </ul>
     </div>
     <div class='section'>
-    <h4>Education</h4>
-    <hr />
-    <div class='centered-row header-row'>
-        <span>Cedar City, UT</span>
-        <span>Southern Utah University</span>
-        <span>2010 - 2014</span>
+        <h4>Education</h4>
+        <hr />
+        <div class='centered-row header-row'>
+            <span>Cedar City, UT</span>
+            <span>Southern Utah University</span>
+            <span>2010 - 2014</span>
+        </div>
+        <ul>
+            <li><b>Major:</b> Bachelor of Science in Computer Science. GPA 3.9</li>
+        </ul>
     </div>
-    <ul>
-        <li><b>Major:</b> Bachelor of Science in Computer Science. GPA 3.9</li>
-    </ul>
-</div>
+    <div class='section'>
+        <h4>Tools & Technologies</h4>
+        <hr />
+        Great experience with:
+        <ul>
+            <li>JavaScript, Typescript, Node.js, React, Golang</li>
+            <li>AWS, DynamoDB, S3, SQS, SNS, Lambda, CloudWatch, Elastic Beanstalk, EC2</li>
+            <li>Terraform, Docker, Jenkins, Git, Gitlab, Kubernetes</li>
+            <li>App Development with Swift, SwiftUI, Objective-C, Java</li>
+        </ul>
+    </div>
+    <div class='section'>
+        <h4>Other Accomplishments</h4>
+        <hr />
+        Inventor on 3 patents.
+        <ul>
+            <li><a href="https://patents.google.com/patent/US10049085B2/en">US 10,049,085: Presenting views of an electronic document</a></li>
+            <li><a href="https://patents.google.com/patent/US10521503B2/en">US 10,521,503: Authenticating a respondent to an electronic survey</a></li>
+            <li><a href="https://patents.google.com/patent/US11392970B2/en">US 11,392,970: Administering a digital survey over voice-capable devices</a></li>
+        </ul>
+    </div>
 </div>
 
 </div>
