@@ -11,7 +11,7 @@ title = "Résumé"
     }
 
     .section {
-        margin: 1rem 0;
+        margin: 0.8rem 0;
     }
     
     .section:first-of-type {
@@ -47,6 +47,13 @@ title = "Résumé"
     .section .header-row:first-of-type {
         margin-top: 0;
         margin-bottom: 0.5rem;
+    }
+
+    .section .role {
+        margin-top: 1rem;
+    }
+    .section .role:first-of-type {
+        margin-top: 0;
     }
 
     #content .resume hr,
@@ -178,8 +185,7 @@ title = "Résumé"
             <li>Responsible for testing & validating the UI & Backend of the legacy Qualtrics Survey Engine and it's migration to the new Survey Engine.</li>
             <li>Developed framework to enable the creation of E2E tests for the Survey Engine to validate features & survey compatibility between both engines.</li>
         </ul>
-        <br />
-        <div class='centered-row header-row'>
+        <div class='centered-row header-row role'>
             <h4>Utah</h4>
             <h4>Island Sprite, LLC</h4>
             <h4>2020 - Present</h4>
@@ -205,8 +211,8 @@ title = "Résumé"
         <h4>Tools & Technologies</h4>
         <hr />
         <ul>
-            <li><b>Languages & Frameworks:</b> JavaScript, TypeScript, Node.js, React, Golang, iOS, Swift, SwiftUI, Objective-C, Android, Java</li>
-            <li><b>Cloud & Infrastructure:</b> AWS (DynamoDB, S3, MediaConvert, SQS, SNS, Lambda, CloudWatch, EC2, Elastic Beanstalk), Terraform, Docker, Kubernetes, Jenkins, Git, Gitlab</li>
+            <li><b>Languages & Frameworks:</b> JavaScript, TypeScript, Node.js, React, Golang, iOS, Swift, SwiftUI, Objective-C, Android, Java, HTML, CSS, Python</li>
+            <li><b>Cloud & Infrastructure:</b> AWS (DynamoDB, S3, MediaConvert, SQS, SNS, Lambda, CloudWatch, EC2, Elastic Beanstalk), Terraform, Docker, Kubernetes, Jenkins, Git, Gitlab, Grafana, Prometheus, Splunk, SumoLogic</li>
         </ul>
     </div>
     <div class='section'>
